@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myvdev.com/sitemap-index.xml
